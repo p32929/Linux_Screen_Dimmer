@@ -11,7 +11,9 @@
 
 #### Now execute the script using this command
 > ./LSD.sh
+
 or
+
 > bash LSD.sh
 
 ### Tested in: 
