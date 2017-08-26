@@ -1,7 +1,7 @@
 # ...::: Linux Screen Dimmer :::...
 
-### How to use:
-#### * Run these commands in terminal emulator:
+### * How to use:
+#### Run these commands in terminal emulator:
 
 > git clone https://github.com/p32929/Linux_Screen_Dimmer.git
 
@@ -16,5 +16,5 @@ or
 
 > bash LSD.sh
 
-### Tested in: 
+### * Tested in: 
 Ubuntu 16.04
