@@ -10,3 +10,6 @@ chmod +x LSD.sh
 
 #### From second time just run using this command inside Linux_Screen_Dimmer directory:
 ./LSD.sh
+
+#### Tested in: 
+Ubuntu 16.04
