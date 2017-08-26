@@ -8,11 +8,9 @@ value1=`zenity --scale --text='Set brightness level:' --min-value=1 --max-value=
 # Zenity Scale GUI doesn't support floating numers
 # But Gamma value must be from 0.1 to 10.0
 # So, dividing the value from GUI by 10
-val=$(echo "scale=1; $a/10" | bc -l)
+value2=$(echo "scale=1; $value1/10" | bc -l)
 
 # Setting gamma value
-xgamma -gamma $val
+xgamma -gamma $value2
 
-# Default gamma value is 0.1
-
-
+# BTW, Default gamma value is 0.1
