@@ -18,3 +18,7 @@ or
 
 ### * Tested in: 
 Ubuntu 16.04
+
+### * If you're facing any dependency error, run this command:
+> sudo apt-get install zenity xgamma
+
